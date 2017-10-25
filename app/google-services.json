@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203357705569",
+    "firebase_url": "https://nearby-9a11b.firebaseio.com",
+    "project_id": "nearby-9a11b",
+    "storage_bucket": "nearby-9a11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203357705569:android:95323f0c549c9e30",
+        "android_client_info": {
+          "package_name": "com.example.kerobeeh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203357705569-d8ce63b5jgm4qs14uu52lcu3q3ghgg7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZuHSy2c9wo2xDLre0LT37GPb-yc-wjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
